@@ -1,0 +1,69 @@
+*{
+    margin :5px;
+}
+body{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.backgroundboxtext{
+    position:fixed;
+    top: 50px;
+    left: 500px;
+    height: 83%;
+    width: 55%;
+    background-color:white ;
+    box-shadow:20px 10px 30px 20px rgb(185, 176, 176);
+}
+.loginbox{
+    box-shadow:20px 20px 20px 10px rgb(210, 206, 206);
+    text-align: center;
+    position:fixed;
+    top: 150px;
+    left: 660px;
+    height: 400px;
+    width: 550px;
+    background-color:white ;
+    padding-top: 1rem;
+}
+#text1{
+    text-align: left;
+        position:fixed;
+        top: 250px;
+        left: 740px;
+       
+        
+    
+}
+h4{
+    font-weight:none;
+}
+#text2{
+    text-align: left;
+        position:fixed;
+        top: 320px;
+        left: 740px;
+       
+       
+
+}
+.thebutton{
+    text-align: left;
+        position:fixed;
+        top: 460px;
+        left: 780px;
+        line-height:10px;
+       text-align: center;
+       
+   
+        
+}
+h2{
+    color:green
+}
+h4{
+    line-height: 1.2;
+}
+.imagee{
+    position:fixed;
+    top: 44px;
+    left: 150px; height: 100%;width: 100%;
+    }
